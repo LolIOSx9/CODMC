@@ -1,3 +1,7 @@
+- name: build-deb-action
+  uses: jiro4989/build-deb-action@v2
+
+
 name: Xcode - Build and Analyze
 
 on:
